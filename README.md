@@ -1,3 +1,6 @@
+# Postman Screenshot
+https://drive.google.com/drive/folders/1m5YTN-WJoAb1CMFRZkEMXSJSfj6iuF5R?usp=sharing
+
 # Student Management REST API
 
 This project is built using Node.js HTTP module.
@@ -15,5 +18,3 @@ This project is built using Node.js HTTP module.
 - PUT /students/:id
 - DELETE /students/:id
 
-## Postman Screenshot
-https://drive.google.com/drive/folders/1m5YTN-WJoAb1CMFRZkEMXSJSfj6iuF5R?usp=sharing
